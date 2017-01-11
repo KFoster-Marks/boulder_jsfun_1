@@ -1,4 +1,4 @@
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcUOqw_rB_4Da7tqO-t65P2nd5dGPElVJLV7q9dNlHFjfhVxCuPw)
+![](img/WhereLearningGoesToWork.png)
 
 Welcome to 
 #[fit] Web Development Fundamentals
